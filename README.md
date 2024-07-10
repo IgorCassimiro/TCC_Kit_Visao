@@ -1,0 +1,1 @@
+Esse repositório foi criado com intuito de apresentar os códigos utilizados no Trabalho de Conclusão de Curso de Igor Rodrigues Cassimiro, o repositório contém códigos utilizados em etapas desde etapa de desenvolvimento do kit até códigos da versão final.
